@@ -1,5 +1,5 @@
 # 3D-ANAS
-code for paper "3D-ANAS: 3D Asymmetric Neural ArchitectureSearch for Fast Hyperspectral Image Classification"
+code for paper "3-D-ANAS: 3D Asymmetric Neural ArchitectureSearch for Fast Hyperspectral Image Classification" (TGRS 2021)
 
 The core part is compressed into one_stage_nas.rar, before to use this, please uncompress this .rar file at first.
 
